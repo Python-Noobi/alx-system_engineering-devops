@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 #!bin/bash
+=======
+#!/bin/bash
+telnet towel.blinkenlights.nl
+>>>>>>> 3b93afd43f9ed7176c187bc888642b103aab89df
