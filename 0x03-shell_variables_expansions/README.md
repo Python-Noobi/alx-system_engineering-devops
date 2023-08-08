@@ -14,8 +14,6 @@
 * [Converts a number from base 2 to base 10](0x03-shell_variables_expansions/11-binary_to_decimal)
 * [Creates all possible combinations of two letters, except oo](0x03-shell_variables_expansions/12-combinations)
 * [Prints a number with two decimal places](0x03-shell_variables_expansions/13-print_float)
-* [Converts a number from base 10 to base 16](0x03-shell_variables_expansions/14-decimal_to_hexadecimal)
-* [Encodes and decodes text using the rot13 encryption](0x03-shell_variables_expansions/100-rot13)
 
 
 Task 0 - Create an alias named ls with value "rm *"
